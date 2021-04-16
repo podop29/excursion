@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: verdana;
+    text-align: center;
+}
+
+
+#header{
+    font-weight: normal;
+    font-size: 40px;
+}
+
+.marine{
+    color: aquamarine;
+    font-size: 16px;
+}
