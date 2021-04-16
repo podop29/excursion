@@ -4,7 +4,10 @@ body{
     font-family: verdana;
     text-align: center;
 }
-
+p{
+    font-size: 21px;
+    color:gray;
+}
 
 #header{
     font-weight: normal;
